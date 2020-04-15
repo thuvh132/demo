@@ -4,11 +4,6 @@ import Message from './components/Message';
 import Cart from './components/Cart';
 
 
-
-
-
-
-
 class App extends Component {
     render() {
         return (
