@@ -2,6 +2,8 @@ import React, { Component } from 'react';
 import Products from './components/Products';
 import Message from './components/Message';
 import Cart from './components/Cart';
+
+
 class App extends Component {
     render() {
         return (
